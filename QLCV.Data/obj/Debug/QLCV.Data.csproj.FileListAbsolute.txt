@@ -1,0 +1,14 @@
+D:\Code\QLCV\QLCV.Data\bin\Debug\QLCV.Data.dll
+D:\Code\QLCV\QLCV.Data\bin\Debug\QLCV.Data.pdb
+D:\Code\QLCV\QLCV.Data\bin\Debug\Dapper.dll
+D:\Code\QLCV\QLCV.Data\bin\Debug\DapperExtensions.dll
+D:\Code\QLCV\QLCV.Data\bin\Debug\DapperExtensions.pdb
+D:\Code\QLCV\QLCV.Data\obj\Debug\QLCV.Data.csprojAssemblyReference.cache
+D:\Code\QLCV\QLCV.Data\obj\Debug\QLCV.Data.csproj.CoreCompileInputs.cache
+D:\Code\QLCV\QLCV.Data\obj\Debug\QLCV.Data.csproj.CopyComplete
+D:\Code\QLCV\QLCV.Data\obj\Debug\QLCV.Data.dll
+D:\Code\QLCV\QLCV.Data\obj\Debug\QLCV.Data.pdb
+D:\Code\QLCV\QLCV.Data\bin\Debug\Dapper.SimpleCRUD.dll
+D:\Code\QLCV\QLCV.Data\bin\Debug\Dapper.xml
+D:\Code\QLCV\QLCV.Data\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\Code\QLCV\QLCV.Data\bin\Debug\Dapper.SimpleCRUD.xml
